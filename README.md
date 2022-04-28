@@ -6,3 +6,4 @@
 [Download](https://pan.baidu.com/s/1rxNnrQ8Kr0AbA-tnGeDFsg?pwd=s6qe)
 
 ### code: **s6qe** 
+### Copy the images to the "Original" directory.
